@@ -1,0 +1,17 @@
+D:\Programming\Projects\Phonebook System\Application\bin\Release\net9.0\Application.deps.json
+D:\Programming\Projects\Phonebook System\Application\bin\Release\net9.0\Application.dll
+D:\Programming\Projects\Phonebook System\Application\bin\Release\net9.0\Application.pdb
+D:\Programming\Projects\Phonebook System\Application\bin\Release\net9.0\Domain_Core.dll
+D:\Programming\Projects\Phonebook System\Application\bin\Release\net9.0\Infrastructure.dll
+D:\Programming\Projects\Phonebook System\Application\bin\Release\net9.0\Domain_Core.pdb
+D:\Programming\Projects\Phonebook System\Application\bin\Release\net9.0\Infrastructure.pdb
+D:\Programming\Projects\Phonebook System\Application\obj\Release\net9.0\Application.csproj.AssemblyReference.cache
+D:\Programming\Projects\Phonebook System\Application\obj\Release\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Projects\Phonebook System\Application\obj\Release\net9.0\Application.AssemblyInfoInputs.cache
+D:\Programming\Projects\Phonebook System\Application\obj\Release\net9.0\Application.AssemblyInfo.cs
+D:\Programming\Projects\Phonebook System\Application\obj\Release\net9.0\Application.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Phonebook System\Application\obj\Release\net9.0\Applicat.44B5EDA2.Up2Date
+D:\Programming\Projects\Phonebook System\Application\obj\Release\net9.0\Application.dll
+D:\Programming\Projects\Phonebook System\Application\obj\Release\net9.0\refint\Application.dll
+D:\Programming\Projects\Phonebook System\Application\obj\Release\net9.0\Application.pdb
+D:\Programming\Projects\Phonebook System\Application\obj\Release\net9.0\ref\Application.dll

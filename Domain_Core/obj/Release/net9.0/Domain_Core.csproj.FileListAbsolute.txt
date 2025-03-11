@@ -1,0 +1,12 @@
+D:\Programming\Projects\Phonebook System\Domain_Core\bin\Release\net9.0\Domain_Core.deps.json
+D:\Programming\Projects\Phonebook System\Domain_Core\bin\Release\net9.0\Domain_Core.dll
+D:\Programming\Projects\Phonebook System\Domain_Core\bin\Release\net9.0\Domain_Core.pdb
+D:\Programming\Projects\Phonebook System\Domain_Core\obj\Release\net9.0\Domain_Core.csproj.AssemblyReference.cache
+D:\Programming\Projects\Phonebook System\Domain_Core\obj\Release\net9.0\Domain_Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Projects\Phonebook System\Domain_Core\obj\Release\net9.0\Domain_Core.AssemblyInfoInputs.cache
+D:\Programming\Projects\Phonebook System\Domain_Core\obj\Release\net9.0\Domain_Core.AssemblyInfo.cs
+D:\Programming\Projects\Phonebook System\Domain_Core\obj\Release\net9.0\Domain_Core.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Phonebook System\Domain_Core\obj\Release\net9.0\Domain_Core.dll
+D:\Programming\Projects\Phonebook System\Domain_Core\obj\Release\net9.0\refint\Domain_Core.dll
+D:\Programming\Projects\Phonebook System\Domain_Core\obj\Release\net9.0\Domain_Core.pdb
+D:\Programming\Projects\Phonebook System\Domain_Core\obj\Release\net9.0\ref\Domain_Core.dll
